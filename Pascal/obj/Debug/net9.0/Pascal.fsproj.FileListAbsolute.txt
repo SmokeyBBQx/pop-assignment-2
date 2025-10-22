@@ -1,0 +1,11 @@
+C:\Users\SmokeyBBQ\Desktop\assignment2\src\Pascal\bin\Debug\net9.0\Pascal.deps.json
+C:\Users\SmokeyBBQ\Desktop\assignment2\src\Pascal\bin\Debug\net9.0\Pascal.dll
+C:\Users\SmokeyBBQ\Desktop\assignment2\src\Pascal\bin\Debug\net9.0\Pascal.pdb
+C:\Users\SmokeyBBQ\Desktop\assignment2\src\Pascal\obj\Debug\net9.0\Pascal.fsproj.AssemblyReference.cache
+C:\Users\SmokeyBBQ\Desktop\assignment2\src\Pascal\obj\Debug\net9.0\Pascal.AssemblyInfoInputs.cache
+C:\Users\SmokeyBBQ\Desktop\assignment2\src\Pascal\obj\Debug\net9.0\Pascal.AssemblyInfo.fs
+C:\Users\SmokeyBBQ\Desktop\assignment2\src\Pascal\obj\Debug\net9.0\Pascal.fsproj.CoreCompileInputs.cache
+C:\Users\SmokeyBBQ\Desktop\assignment2\src\Pascal\obj\Debug\net9.0\Pascal.dll
+C:\Users\SmokeyBBQ\Desktop\assignment2\src\Pascal\obj\Debug\net9.0\refint\Pascal.dll
+C:\Users\SmokeyBBQ\Desktop\assignment2\src\Pascal\obj\Debug\net9.0\Pascal.pdb
+C:\Users\SmokeyBBQ\Desktop\assignment2\src\Pascal\obj\Debug\net9.0\ref\Pascal.dll
