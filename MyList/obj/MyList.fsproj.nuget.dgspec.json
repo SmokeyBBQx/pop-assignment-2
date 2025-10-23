@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SmokeyBBQ\\Desktop\\assignment2\\MyList\\MyList.fsproj": {}
+    "C:\\Users\\phili\\Documents\\GitHub\\pop-assignment-2\\MyList\\MyList.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\SmokeyBBQ\\Desktop\\assignment2\\MyList\\MyList.fsproj": {
+    "C:\\Users\\phili\\Documents\\GitHub\\pop-assignment-2\\MyList\\MyList.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SmokeyBBQ\\Desktop\\assignment2\\MyList\\MyList.fsproj",
+        "projectUniqueName": "C:\\Users\\phili\\Documents\\GitHub\\pop-assignment-2\\MyList\\MyList.fsproj",
         "projectName": "MyList",
-        "projectPath": "C:\\Users\\SmokeyBBQ\\Desktop\\assignment2\\MyList\\MyList.fsproj",
-        "packagesPath": "C:\\Users\\SmokeyBBQ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SmokeyBBQ\\Desktop\\assignment2\\MyList\\obj\\",
+        "projectPath": "C:\\Users\\phili\\Documents\\GitHub\\pop-assignment-2\\MyList\\MyList.fsproj",
+        "packagesPath": "C:\\Users\\phili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\phili\\Documents\\GitHub\\pop-assignment-2\\MyList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SmokeyBBQ\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\phili\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\sdk\\9.0.306\\FSharp\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\9.0.304\\FSharp\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

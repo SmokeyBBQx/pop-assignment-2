@@ -22,7 +22,7 @@ let length (list: MyList<'a>) : int =
         | Something (value, rest) -> count (n+1) rest
     count 0 list
 
-let rec map func (list: MyList<'a>) : MyList<'a> =
+let rec map (func: 'a -> 'a) (list: MyList<'a>) : MyList<'a> =
     match list with
         | Empty -> list
         | Something (value, rest) ->

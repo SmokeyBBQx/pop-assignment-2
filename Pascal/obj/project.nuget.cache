@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YWl/ZvqVOik=",
+  "dgSpecHash": "xluUAtRYU74=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SmokeyBBQ\\Desktop\\assignment2\\src\\Pascal\\Pascal.fsproj",
+  "projectFilePath": "C:\\Users\\phili\\Documents\\GitHub\\pop-assignment-2\\Pascal\\Pascal.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\SmokeyBBQ\\.nuget\\packages\\fsharp.core\\9.0.303\\fsharp.core.9.0.303.nupkg.sha512"
+    "C:\\Users\\phili\\.nuget\\packages\\fsharp.core\\9.0.303\\fsharp.core.9.0.303.nupkg.sha512"
   ],
   "logs": []
 }

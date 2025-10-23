@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("Pascal")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c09569b712b19ce36e83e69da8ce39b7c74fe188")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("Pascal")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("Pascal")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

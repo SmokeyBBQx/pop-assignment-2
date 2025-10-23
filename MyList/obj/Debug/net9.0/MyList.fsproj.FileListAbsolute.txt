@@ -9,3 +9,15 @@ C:\Users\SmokeyBBQ\Desktop\assignment2\MyList\obj\Debug\net9.0\MyList.dll
 C:\Users\SmokeyBBQ\Desktop\assignment2\MyList\obj\Debug\net9.0\refint\MyList.dll
 C:\Users\SmokeyBBQ\Desktop\assignment2\MyList\obj\Debug\net9.0\MyList.pdb
 C:\Users\SmokeyBBQ\Desktop\assignment2\MyList\obj\Debug\net9.0\ref\MyList.dll
+C:\Users\phili\Documents\GitHub\pop-assignment-2\MyList\obj\Debug\net9.0\MyList.fsproj.AssemblyReference.cache
+C:\Users\phili\Documents\GitHub\pop-assignment-2\MyList\obj\Debug\net9.0\MyList.AssemblyInfoInputs.cache
+C:\Users\phili\Documents\GitHub\pop-assignment-2\MyList\obj\Debug\net9.0\MyList.AssemblyInfo.fs
+C:\Users\phili\Documents\GitHub\pop-assignment-2\MyList\obj\Debug\net9.0\MyList.fsproj.CoreCompileInputs.cache
+C:\Users\phili\Documents\GitHub\pop-assignment-2\MyList\obj\Debug\net9.0\MyList.sourcelink.json
+C:\Users\phili\Documents\GitHub\pop-assignment-2\MyList\obj\Debug\net9.0\MyList.dll
+C:\Users\phili\Documents\GitHub\pop-assignment-2\MyList\obj\Debug\net9.0\refint\MyList.dll
+C:\Users\phili\Documents\GitHub\pop-assignment-2\MyList\obj\Debug\net9.0\MyList.pdb
+C:\Users\phili\Documents\GitHub\pop-assignment-2\MyList\bin\Debug\net9.0\MyList.deps.json
+C:\Users\phili\Documents\GitHub\pop-assignment-2\MyList\bin\Debug\net9.0\MyList.dll
+C:\Users\phili\Documents\GitHub\pop-assignment-2\MyList\bin\Debug\net9.0\MyList.pdb
+C:\Users\phili\Documents\GitHub\pop-assignment-2\MyList\obj\Debug\net9.0\ref\MyList.dll
