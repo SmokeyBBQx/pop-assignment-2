@@ -77,8 +77,8 @@ let partition2Cases = [
 let partition3Cases = [
     2, 1
     4, 2
-  //  System.Int32.MaxValue, 1 // Stack Overflow
- //   System.Int32.MaxValue, 4 // Stack Overflow
+    // System.Int32.MaxValue, 1 // Stack Overflow
+    // System.Int32.MaxValue, 4 // Stack Overflow
 ]
 
 let test testProperty testCases =

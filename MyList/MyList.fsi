@@ -6,13 +6,11 @@ type 'a MyList =
     | Something of 'a * 'a MyList // Represents a value and the rest of the list
 
 // Takes an integer n and a MyList list and returns a new MyList containing the first n elements of the original list. 
-// If the input list is empty, an empty list will be returned.
-// Will return an empty list if n < 1.
+// If the input list is empty or n < 1, an empty list will be returned.
 val take : int -> MyList<'a> -> MyList<'a>
 
 // Takes an integer n and a MyList list and returns a new MyList without the first n elements of the original list. 
-// If the input list is empty, an empty list will be returned.
-// Will return the input list if n < 1.
+// If the input list is empty or n < 1, an empty list will be returned.
 val drop : int -> MyList<'a> -> MyList<'a>
 
 // Takes a MyList list and returns an int representing the number of elements it contains.
